@@ -49,35 +49,35 @@ export default function Home() {
               <li className="mb-2 max-w-[180px]">
                 <a
                   href="mailto:hello@eightify.app?subject=Eightify"
-                  className="text-lg leading-[1.22] text-[rgba(0, 0, 0, 0.48)]">
+                  className="text-lg leading-[1.22] -[rgba(0, 0, 0, 0.48)]">
                   Συμπέρασμα
                 </a>
               </li>
               <li className="mb-2 max-w-[180px]">
                 <a
                   href="https://eightify.app/el/terms-of-use"
-                  className="text-lg leading-[1.22] text-[rgba(0, 0, 0, 0.48)]">
+                  className="text-lg leading-[1.22] -[rgba(0, 0, 0, 0.48)]">
                   Όροι χρήσης
                 </a>
               </li>
               <li className="mb-2 max-w-[180px]">
                 <a
                   href="https://eightify.app/el/privacy-policy"
-                  className="text-lg leading-[1.22] text-[rgba(0, 0, 0, 0.48)]">
+                  className="text-lg leading-[1.22] -[rgba(0, 0, 0, 0.48)]">
                   Πολιτική Απορρήτου
                 </a>
               </li>
               <li className="mb-2 max-w-[180px]">
                 <a
                   href="https://eightify.app/el/how-to-summarize-a-youtube-video"
-                  className="text-lg leading-[1.22] text-[rgba(0, 0, 0, 0.48)]">
+                  className="text-lg leading-[1.22] -[rgba(0, 0, 0, 0.48)]">
                   Σύντομη περίληψη
                 </a>
               </li>
               <li className="mb-2 max-w-[180px]">
                 <a
                   href="https://eightify.app/el/youtube-summary"
-                  className="text-lg leading-[1.22] text-[rgba(0, 0, 0, 0.48)]">
+                  className="text-lg leading-[1.22] -[rgba(0, 0, 0, 0.48)]">
                   YouTube video summarizer
                 </a>
               </li>
@@ -86,28 +86,28 @@ export default function Home() {
               <li className="mb-2 max-w-[180px]">
                 <a
                   href="https://eightify.app/el/summary"
-                  className="text-lg leading-[1.22] text-[rgba(0, 0, 0, 0.48)]">
+                  className="text-lg leading-[1.22] -[rgba(0, 0, 0, 0.48)]">
                   YouTube summaries
                 </a>
               </li>
               <li className="mb-2 max-w-[180px]">
                 <a
                   href="https://eightify.app/el/summary/ycombinator"
-                  className="text-lg leading-[1.22] text-[rgba(0, 0, 0, 0.48)]">
+                  className="text-lg leading-[1.22] -[rgba(0, 0, 0, 0.48)]">
                   YC summaries
                 </a>
               </li>
               <li className="mb-2 max-w-[180px]">
                 <a
                   href="https://eightify.app/install?&amp;platform=chrome-extension&amp;place=seo"
-                  className="text-lg leading-[1.22] text-[rgba(0, 0, 0, 0.48)]">
+                  className="text-lg leading-[1.22] -[rgba(0, 0, 0, 0.48)]">
                   Youtube Summary AI
                 </a>
               </li>
               <li className="mb-2 max-w-[180px]">
                 <a
                   href="https://eightify.app/el/youtube-summary-with-chatgpt-extension"
-                  className="text-lg leading-[1.22] text-[rgba(0, 0, 0, 0.48)]">
+                  className="text-lg leading-[1.22] -[rgba(0, 0, 0, 0.48)]">
                   YouTube summary with ChatGPT
                 </a>
               </li>
@@ -118,7 +118,7 @@ export default function Home() {
                   href="https://twitter.com/eightifyapp"
                   target="_blank"
                   rel="noopener"
-                  className="text-lg leading-[1.22] text-[rgba(0, 0, 0, 0.48)]">
+                  className="text-lg leading-[1.22] -[rgba(0, 0, 0, 0.48)]">
                   Twitter
                 </a>
               </li>
@@ -127,7 +127,7 @@ export default function Home() {
                   href="https://www.instagram.com/eightify.app/"
                   target="_blank"
                   rel="noopener"
-                  className="text-lg leading-[1.22] text-[rgba(0, 0, 0, 0.48)]">
+                  className="text-lg leading-[1.22] -[rgba(0, 0, 0, 0.48)]">
                   Instagram
                 </a>
               </li>
@@ -136,7 +136,7 @@ export default function Home() {
                   href="https://www.linkedin.com/company/eightify"
                   target="_blank"
                   rel="noopener"
-                  className="text-lg leading-[1.22] text-[rgba(0, 0, 0, 0.48)]">
+                  className="text-lg leading-[1.22] -[rgba(0, 0, 0, 0.48)]">
                   Linkedin
                 </a>
               </li>
@@ -145,7 +145,7 @@ export default function Home() {
                   href="https://www.facebook.com/eightifyapp/"
                   target="_blank"
                   rel="noopener"
-                  className="text-lg leading-[1.22] text-[rgba(0, 0, 0, 0.48)]">
+                  className="text-lg leading-[1.22] -[rgba(0, 0, 0, 0.48)]">
                   Facebook
                 </a>
               </li>
@@ -154,14 +154,14 @@ export default function Home() {
                   href="https://www.youtube.com/@eightifyapp"
                   target="_blank"
                   rel="noopener"
-                  className="text-lg leading-[1.22] text-[rgba(0, 0, 0, 0.48)]">
+                  className="text-lg leading-[1.22] -[rgba(0, 0, 0, 0.48)]">
                   Youtube
                 </a>
               </li>
             </ul>
             <select
               id="language-picker"
-              className="footer-links__language footer-link language-select text-lg leading-[1.22] text-[rgba(0, 0, 0, 0.48)]"
+              className="footer-links__language footer-link language-select text-lg leading-[1.22] -[rgba(0, 0, 0, 0.48)]"
               name="countries">
               <option
                 className="language-select__option"
