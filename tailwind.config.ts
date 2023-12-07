@@ -1,4 +1,5 @@
 import type { Config } from 'tailwindcss'
+import { fontFamily } from "tailwindcss/defaultTheme"
 
 const config: Config = {
   content: [
@@ -13,7 +14,10 @@ const config: Config = {
           DEFAULT: "hsl(var(--primary))",
           muted: "hsl(var(--primary-muted))"
         }
-      }
+      },
+      fontFamily: () => ({
+        sans: ["var(--font-sans, '')", ...fontFamily.sans]
+      })
     },
   },
   plugins: [],

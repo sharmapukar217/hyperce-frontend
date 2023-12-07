@@ -6,6 +6,8 @@
   --primary: 19 97% 50%;
   --primary-muted: 19 96% 60%;
 
+  --font-sans: "'Inter', 'Verdana', 'Arial', sans-serif";
+
   /* --text-base-primary: #000; */
   /* --text-base-disabled: rgba(0, 0, 0, 0.32); */
   /* --text-base-secondary: rgba(0, 0, 0, 0.64); */
